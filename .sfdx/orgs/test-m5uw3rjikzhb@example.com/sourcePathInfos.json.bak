@@ -1,0 +1,1307 @@
+[
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546706465024,
+            "changeTime": 1546706465024,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546706465024,
+            "changeTime": 1546706465024,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1546709880937,
+            "changeTime": 1546709880937,
+            "contentHash": "e7b5eaa2a8f19cbed11166f6290386da19ad8a23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1546710089373,
+            "changeTime": 1546710089373,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1546709312318,
+            "changeTime": 1546709312318,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1546709312318,
+            "changeTime": 1546709312318,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 542,
+            "modifiedTime": 1546710176118,
+            "changeTime": 1546710176118,
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1546709312315,
+            "changeTime": 1546709312315,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 110,
+            "modifiedTime": 1546709455657,
+            "changeTime": 1546709455657,
+            "contentHash": "bcc35e5a26f8a2de351b81d7de390702d4d16c0f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1546709312318,
+            "changeTime": 1546709312318,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1546709312317,
+            "changeTime": 1546709312317,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 395,
+            "modifiedTime": 1546710215673,
+            "changeTime": 1546710215673,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1546709312316,
+            "changeTime": 1546709312316,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1546709312317,
+            "changeTime": 1546709312317,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1546709020982,
+            "changeTime": 1546709020982,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1546709020980,
+            "changeTime": 1546709020980,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 124,
+            "modifiedTime": 1546709034581,
+            "changeTime": 1546709034581,
+            "contentHash": "bd81244eedf31aa8868729c6eae363e5e38d8a5b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1546709020968,
+            "changeTime": 1546709020968,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1546709049529,
+            "changeTime": 1546709049529,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1546709020982,
+            "changeTime": 1546709020982,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1546709020978,
+            "changeTime": 1546709020978,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1546709020971,
+            "changeTime": 1546709020971,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1546709020973,
+            "changeTime": 1546709020973,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1546709020976,
+            "changeTime": 1546709020976,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1546708560469,
+            "changeTime": 1546708560469,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1546708560468,
+            "changeTime": 1546708560468,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1546710001564,
+            "changeTime": 1546710001564,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1546708560466,
+            "changeTime": 1546708560466,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1546708613244,
+            "changeTime": 1546708613244,
+            "contentHash": "251aff54dc3d80eb2737c6ba853cad85531e3a00",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1546708560469,
+            "changeTime": 1546708560469,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1546708560468,
+            "changeTime": 1546708560468,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1546708560467,
+            "changeTime": 1546708560467,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1546708560467,
+            "changeTime": 1546708560467,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1546708560468,
+            "changeTime": 1546708560468,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1546709928286,
+            "changeTime": 1546709928286,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1546709928286,
+            "changeTime": 1546709928286,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 330,
+            "modifiedTime": 1546710241282,
+            "changeTime": 1546710241282,
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1546709928283,
+            "changeTime": 1546709928283,
+            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1546709987421,
+            "changeTime": 1546709987421,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1546709928286,
+            "changeTime": 1546709928286,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1546709928285,
+            "changeTime": 1546709928285,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 830,
+            "modifiedTime": 1546710256942,
+            "changeTime": 1546710256942,
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1546709928284,
+            "changeTime": 1546709928284,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1546709928285,
+            "changeTime": 1546709928285,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1546710089374,
+            "changeTime": 1546710089374,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1546710109170,
+            "changeTime": 1546710109170,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1546710089374,
+            "changeTime": 1546710089374,
+            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1546708413205,
+            "changeTime": 1546708413205,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 350,
+            "modifiedTime": 1546708488876,
+            "changeTime": 1546708488876,
+            "contentHash": "61647800ca0036eb72f69859f567834ae9b6aa33",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1546708413205,
+            "changeTime": 1546708413205,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1546707398471,
+            "changeTime": 1546707398471,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1546707398453,
+            "changeTime": 1546707398453,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1546707398467,
+            "changeTime": 1546707398467,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1546707398460,
+            "changeTime": 1546707398460,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1546707398471,
+            "changeTime": 1546707398471,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546707398439,
+            "changeTime": 1546707398439,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546707398439,
+            "changeTime": 1546707398439,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546707398441,
+            "changeTime": 1546707398441,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1546707398441,
+            "changeTime": 1546707398441,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546707398472,
+            "changeTime": 1546707398472,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1546707398472,
+            "changeTime": 1546707398472,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1546708792151,
+            "changeTime": 1546708792151,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18199,
+            "modifiedTime": 1546708792148,
+            "changeTime": 1546708792148,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1546708792122,
+            "changeTime": 1546708792122,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4676,
+            "modifiedTime": 1546708792116,
+            "changeTime": 1546708792116,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5016,
+            "modifiedTime": 1546708792151,
+            "changeTime": 1546708792151,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/settings",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546709880938,
+            "changeTime": 1546709880938,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2632,
+            "modifiedTime": 1546709880938,
+            "changeTime": 1546709880938,
+            "contentHash": "a0cadba26057efa4350b58d02a7bcf1d669f020a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1546709880897,
+            "changeTime": 1546709880897,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1546709880929,
+            "changeTime": 1546709880929,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1546709880907,
+            "changeTime": 1546709880907,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1259,
+            "modifiedTime": 1546709880901,
+            "changeTime": 1546709880901,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1546709880902,
+            "changeTime": 1546709880902,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2464,
+            "modifiedTime": 1546709880903,
+            "changeTime": 1546709880903,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1466,
+            "modifiedTime": 1546709880906,
+            "changeTime": 1546709880906,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1546709880907,
+            "changeTime": 1546709880907,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 401270,
+            "modifiedTime": 1546709880910,
+            "changeTime": 1546709880910,
+            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 764787,
+            "modifiedTime": 1546709880913,
+            "changeTime": 1546709880913,
+            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402995,
+            "modifiedTime": 1546709880919,
+            "changeTime": 1546709880919,
+            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 764879,
+            "modifiedTime": 1546709880923,
+            "changeTime": 1546709880923,
+            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14106,
+            "modifiedTime": 1546709880924,
+            "changeTime": 1546709880924,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 141125,
+            "modifiedTime": 1546709880925,
+            "changeTime": 1546709880925,
+            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 192417,
+            "modifiedTime": 1546709880929,
+            "changeTime": 1546709880929,
+            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1546709880798,
+            "changeTime": 1546709880798,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1546708792109,
+            "changeTime": 1546708792109,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1546708792109,
+            "changeTime": 1546708792109,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/nickjohnson/Desktop/my_sfdx_project/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1546707988104,
+            "changeTime": 1546707988104,
+            "contentHash": "93b303fc40e3602ad1121ea06637359011521e16",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
